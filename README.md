@@ -10,10 +10,8 @@ Este laboratorio explora el comportamiento de una red neuronal simple al ajustar
 3. Implementación de la función de costo Mean Squared Error (MSE) y análisis de su efecto en la convergencia.
 
 ## Estructura del Proyecto
-
-## Estructura del Proyecto
-- [./NNsimple-1.ipynb](/Users/andres/Desktop/DeepLearning/DeLe-Lab1/NNsimple-1.ipynb): Código principal que contiene la implementación de la red neuronal, funciones de costo, retropropagación y entrenamiento.
-- [/docs/lab1.pdf](/Users/andres/Desktop/DeepLearning/DeLe-Lab1/docs/lab1.pdf): Reporte detallado del laboratorio con análisis y resultados.
+- [NNsimple-1.ipynb](/NNsimple-1.ipynb): Código principal que contiene la implementación de la red neuronal, funciones de costo, retropropagación y entrenamiento.
+- [/docs/lab1.pdf](/docs/lab1.pdf): Reporte detallado del laboratorio con análisis y resultados.
 
 
 ## Requisitos
